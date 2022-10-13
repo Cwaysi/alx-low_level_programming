@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C programing
+this repository will contain c programing language assiginments
