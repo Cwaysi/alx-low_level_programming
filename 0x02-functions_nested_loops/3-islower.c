@@ -2,6 +2,8 @@
 /**
  * _islower - checks for lower casing
  * Return : 0 if lower and 1 if positive
+ * @c is the collecting int
+ * Return: Always 0
  */
 
 int _islower(int c)
