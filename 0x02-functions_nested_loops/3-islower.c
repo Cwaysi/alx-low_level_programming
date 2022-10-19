@@ -2,7 +2,8 @@
 /**
  * _islower - checks for lower casing
  * Return : 0 if lower and 1 if positive
- * @c is the collecting int
+ * @c: is the collecting
+ * Description: I dont have any desc
  * Return: Always 0
  */
 
