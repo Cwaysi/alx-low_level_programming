@@ -2,8 +2,9 @@
 
 /**
  * print_sign - this is the function
- * @c: this is the parameter
+ * @n: this is the parameter
  * Description: return 1 0 -1 when greater
+ * Return: 0 and 1 and -1
  */
 
 int print_sign(int n)
